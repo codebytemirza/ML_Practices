@@ -1,5 +1,7 @@
 # ML_practices
 
+![](https://drive.google.com/uc?export=view&id=1kbu0-kJ7nvOLLg3mhL-H-VlMOfoKNIGP)
+
 This repository contains a collection of machine learning practice exercises and examples. The code is written in Python and utilizes the NumPy library for numerical operations.
 
 ## Contents
